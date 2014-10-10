@@ -1,0 +1,4 @@
+$string = "bliblablu";
+$\ = "\n";
+
+print "This is true!" if $string =~ /bla/;

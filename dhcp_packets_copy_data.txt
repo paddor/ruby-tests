@@ -1,0 +1,102 @@
+COPY dhcp_packets (message_type, received_from, transmitted_to, circuitid, remoteid, sent_at) FROM stdin;
+ack	\N	69.238.233.205/24	)2@4uN9k&)\\n#nT!Adh8#U64JC6~d/vjb	1679566083	2010-09-26 17:29:31
+ack	\N	55.89.193.104/24	$XksB9QA3(42W+4!QY3x	1977867661	2010-09-26 07:05:54
+ack	\N	216.241.244.109/24	w$*v!b)u#qzj^'~\	Xv%J'NAUvBnnf|9O8H@R7S&3aB\	3Z7NcL	1620754831	2010-09-25 21:36:59
+discover	\N	\N	/9*F}}V\	3h\	jt4~Ezz"F?z(xvY*{d^a?Tu7$/'B+\\aG+s~	1040927804	2010-09-27 19:52:28
+ack	\N	197.177.103.28/24	X6X-YQ!3WFgOE!s%&e&+C-F34#Zvf\	BxBK4-#t#j%$6G{\	AhN@Cd\	\\2p2N/z	1672782322	2010-09-26 23:32:28
+ack	\N	78.8.184.156/24	x]e	1864309379	2010-09-26 09:58:22
+discover	\N	\N	zKP'Zh7'u#+*p'xpD	1504419984	2010-09-27 04:03:23
+ack	\N	254.194.17.230/24	4z"3=xjH|tD@E&)"e&X`*e^GEp\\aZBz}D8-3G6Mt$-~v6S]+FLOFYbF\	L!&H_dD9e{Zrccg2+7hwHEgnhZXP	1862600313	2010-09-26 21:29:52
+discover	\N	\N	zBfaXu&?)ZF3}d=qjD%m~S(kHxDVw6+%3T}gWxTv)AuFQ$?7~2_	1338019679	2010-09-25 05:34:31
+discover	\N	\N	s/$DewUt`_Fbn|h$S@8w`q=*Ts&?VEpqx'+-*E\	f|-E5p9#~@q6zHjX}6e{p\\WsA{Bh}&\\P?%p\\r`H~Mna2+"AG!u4QYpOYJf	1830110578	2010-09-26 04:04:47
+discover	\N	\N	dx4T\	fKuKuOD}baH{bgR^j$^EQs!(B	1702238288	2010-09-26 21:15:57
+offer	\N	\N	HnkD{"a-*hX]R!bpc/P|_'9}Yu(/QEWq^FO$'w@-/]A6$~Z&+bf5qcC#k^44A\	?=@\\F	1730580775	2010-09-26 12:23:47
+request	67.153.52.175	\N	s9/gwbqej`\\]Z~v`8U*waYx}n`	1749683850	2010-09-25 09:36:56
+offer	\N	\N	@~9DEs=msvq6wk~K*!K}J"DrQ(zc3}GPO5F7$9axd${k!=Pn|rcAScY`38LyF~RXm+EgGmC\	daTPTAF57^H~Gf	1314669700	2010-09-26 11:45:39
+discover	\N	\N	r\\k9hRAq+wGD	1747685463	2010-09-25 06:05:25
+offer	\N	\N	y95=Lf*Y	1742726844	2010-09-26 22:38:51
+ack	\N	54.184.207.103/24	{~A+K$`7(tDYTE??z@X9]^OAPVYW{GW}gu%"ZJ?j8/mV3Ja`GJ!FhzVesAfxKP-=SfEqNB@BqM{GV|)sX]FkqY"Wvu	1042170795	2010-09-26 00:39:41
+ack	\N	216.136.199.135/24	hVRvP2PrR|!|/g"~WVP-'	1624433872	2010-09-27 06:27:22
+request	196.93.51.33	\N	%2aZL}Df|Y{mqLz8J@aM6NBpLwnc^VSHnc`zVp5!AQ\	}\\}az@eqOMys{PFrJT(pJhC9\\\	bFCJW_{PyTd	1134093913	2010-09-25 04:21:36
+discover	\N	\N	d&Bdps$^OYW{u3be#RfZO]NR=VzC4{'R5xpUm~F}NQ	1194759212	2010-09-26 10:24:27
+offer	\N	\N	k!]Q-'!'V9NHxQ`sFHet*=E$G%OH`UN{dB#U]?|]Yswv!4u8Zpg+BMy/J'u{4xCjR/O\\dq/-uCFQZx	1247992773	2010-09-25 02:42:38
+discover	\N	\N	$Ag4_9)\\&RDrsc)#U	1541998932	2010-09-25 18:30:22
+request	54.246.232.147	\N	xn@L|xC'}r3NQKJ+%UQv!)W]C|&)p=d2p?FyN=gJ_kt+'mq\\O*@4}veS#6_KW#p2\	#|{!8b|X\	*X	1886581306	2010-09-25 20:30:12
+ack	\N	18.130.226.231/24	U(7cZZTH_gR@`N2Q5v~P'hhrjT()MM\\AfLkgG!^_h7a	1360967792	2010-09-26 17:58:51
+discover	\N	\N	kE@W`%+Pzj/)b)!Ymxxc3BP	1988552592	2010-09-26 07:38:41
+ack	\N	16.75.239.91/24	??!-QpG4Y~~M!*8Ov-Fjf#h8d')C^)@fJ}q(~4Gk-?QM`"7-q4+c|%8g-*vu9*)tW?K9s"(^pm5hg*$%g228vWpQWgzj$+/	1578928693	2010-09-25 11:35:44
+request	129.142.254.195	\N	H=R-49~4Ys=8\\~xKv9=!bXk'	1380103651	2010-09-25 10:10:52
+discover	\N	\N	`t]2(ZSe\	ad\\dm"*O)N++ac}ne{e+#hqP\	CSJc\\vKGv?|5KPXd~7&c'L5mYWRhJmc	1973059548	2010-09-27 00:42:13
+discover	\N	\N	(RCaEae\\4NMhA\\_&	1484282682	2010-09-26 12:39:03
+request	\N	\N	-N|L_Dx)FL'5yVk!L'tRK@rKT6Z]"bB~_YC	1301513096	2010-09-26 00:51:19
+discover	\N	\N	g6Ke\\an-nP$*q=M-^hT=wnVDe)Q?b4\\r_OyWFWX^k8r	1413106292	2010-09-25 13:30:16
+request	\N	\N	u(3KywkOq9yVdaJf3d3)aBk]X84uY-Te'(ZbkP44&LP2)`L$'PA+NKPs`9CvQtutw4WG\\^7|&tZSH+sLsE~gQr!pJGB'\	86THH	1603632359	2010-09-25 18:09:40
+ack	\N	8.87.58.69/24	BktQ}(nuF8Sp|JQ}k$aZZHyw_z\	YVU#&w$5TmE3fSq%ycxX	1788719839	2010-09-27 15:22:24
+offer	\N	\N	ZF%YbtpY5EFQE2Uran!~{}hDnzrzE+!Pu|Gxa]updfwjQzr\	rdd-$6{_G$J-#Gw54p5CAce-	1537653298	2010-09-27 18:05:41
+ack	\N	70.167.212.233/24	BENeFmumEgDpM'zM5r4$vY?fY+^6Jb\	&&v\\Zpz@psOjj7~=`*"am]#OP	1263336134	2010-09-25 14:30:38
+discover	\N	\N	Eqtb%nwO2XM)/SQPfyQHExP^_p^~^`@{bt]f5	1437380652	2010-09-27 00:04:10
+discover	\N	\N	ERJ!$PT	1272395454	2010-09-26 02:09:32
+ack	\N	200.137.109.1/24	+Pkb2$%}2?j`"js+wkpZSgQ43$\	43@M=mnZ]@\\!fXVa$5mkge?qgn&m3&?cVH}&~Orh*4}EBCSpLV5#Th3`L/MdpXQ|MKY&Dy@	1710408514	2010-09-26 16:47:01
+request	140.99.202.111	\N	#KemGq$Mum@rN$q7j]E"++OuP/M^7~_U${$LzS?	1704787754	2010-09-25 18:42:05
+discover	\N	\N	F$'~V$x|RK8D?66wPKtw8VD*a?PZ8x=DU'	1076074736	2010-09-26 01:05:03
+request	11.15.189.189	\N	c-FPAXLa?85?|gP23e"!!OpO'p49aWAxXe%_6|N!6Gc|_3	1006212940	2010-09-27 15:46:06
+offer	\N	\N	jy5`S)NM)9	1265450601	2010-09-25 06:40:53
+offer	\N	\N	*sP+3NT"TG{Tk(%+*JQn?S7w9SDW	1571220860	2010-09-25 11:15:54
+request	165.25.129.133	\N	~tu6aD#AL	1251247477	2010-09-26 10:37:41
+request	122.222.101.169	\N	F\\\	=e\\Bb-~&7=\	Hv89z=JK5|(W?Xs@zT|rY&3"Q9Ha\\}*VwJu27t#qeEYpJ|^c\	FRy_mO'v{8"Zvr3('d5(f9(nJWG_/a]h	1811214493	2010-09-27 14:03:43
+discover	\N	\N	ZE|B^My?@Q~a}*yunG`*OadQGZ/bAE(XSQTna{s\\x{CW+d'G!%?Gds7O48\	'U	1245190413	2010-09-25 22:28:04
+ack	\N	83.161.233.125/24	59(u7gZG#2M3)!m8QnV&4|2J@W^8gP-q$R)vnNPH}hy-yOA*Bg]?	1880775597	2010-09-26 18:34:36
+discover	\N	\N	9L}5b*z}_\\!DunFh~g4Vue7nAbK\	^c+L|KJXGM=k?#6xV|JDcj}vt	1799546447	2010-09-25 01:48:18
+discover	\N	\N	5aZ^H#3h4x|ZDxwaP!6TUp89GuUP8sEyx98E78)5!R	1026991319	2010-09-27 18:39:18
+ack	\N	196.115.16.77/24	Md4t8K}yKt4ru*_)~^+M+y9MR(@LP6tuCMbSzkKbf`^vt	1604843202	2010-09-27 03:39:35
+offer	\N	\N	G^]A=Cu5|m4#SM(xg"`g!P_9b9GWwqW}yOgfj`\\hR!^d=)Fe#9G!L%x8PSPMJU&!!-X(KxP(	1705351161	2010-09-27 13:28:56
+offer	\N	\N	~AC+8EG~_k4	1240246618	2010-09-26 23:11:44
+request	198.184.122.12	\N	en~YApUc##7RfdCXb~J`\\XWCHU_7n~BFn'OPSmN=*t^ENQk\	$9DX+y\\uO+"t4ZvPq(Q$?&9)d\	43Gg!QB?emxDF	1493339557	2010-09-27 20:57:16
+offer	\N	\N	p%~=suVO$$a$N/\	p2jM/z$WKd"%S/-HP9=/cjVy&N\	Ft@x@S-\	6@!!aKx$rzc(jc%G_{A~JKQDjV%\	/%s))VypEN@	1727244528	2010-09-25 01:10:00
+ack	\N	106.177.126.32/24	Bvc-tSJX!w}V8pZzG%7/-|ur{!m^xe\	Q\\zSG_=NKdRT|8AFK)}R&WBFOanKH6	1739374210	2010-09-26 12:53:30
+request	98.18.147.140	\N	7s!CDFrRH@D~%8U$~e?XY?&(sHU5mn\\VTG5U{bR+{-dz#6rgrXq7kvpdunf"K$}#g8t`V-cLj	1207304380	2010-09-26 15:05:48
+discover	\N	\N	C`D#_#DM\\A6m/EwLJVgr2F)w3!MB!r	1470372199	2010-09-26 10:08:17
+request	168.99.133.141	\N	O%+`	1461964262	2010-09-25 15:38:22
+discover	\N	\N	AB%yMDe\	Zq_\\s5Y_]5kbp`b4(A{4MwsHtB2a+Ajt"^-tHvQt7Z|	1836839076	2010-09-27 06:29:45
+ack	\N	62.120.138.44/24	meNL5OzNk/G"e'j]nSMT-vhH$m=*`Rs|9mg7zNNE7aY-*?e#|HQZ/vBjF{|	1344178774	2010-09-26 06:37:25
+request	\N	\N	^a`~J(#2@_PkG=JHx	1064576987	2010-09-25 18:04:15
+discover	\N	\N	%~DL(ktp\	RY-%\\e+QY5pS?Y/U#CvL|`H%'mXm"WmL)SHC%ShZ#LWC\\wVh@UP	1994894973	2010-09-26 02:40:01
+request	\N	\N	BXPDv&hJb+|7'*8xP-fR{EcmYfZSa%6}j6-T?qgDSZHS]DWFG/UF`w9Ha`6\	{tJOn|CpH=qtYN=kvDVR	1644455169	2010-09-25 08:27:07
+ack	\N	210.231.47.35/24	j&437L&}bJ(~](jHHvKK{$LL(r3{{K|+]xx+jb`9'59cdGJ'W"'e{cJ{&h&DqGj'2	1025648715	2010-09-25 15:38:52
+request	216.90.225.85	\N	t]7(st"db]f	1962710031	2010-09-27 01:40:29
+discover	\N	\N	3NU\\VTkH&)9WQN-(BY+Nv_]`+g4ce\	\	nLNMjUGcPX&+zjpXe24%Y#\	tTgRcA2Krvex^wKL&nW(4GpV3\	6Ucp++cZu%$?Q&a/	1016155827	2010-09-27 08:59:48
+offer	\N	\N	v+]%HmL=qaR~3K_!/M\	gddhCjg~*8!EvV&*XRgV#46SV&Gxz?_E9OXJHgXPAWM2dHW}-QJ@VaJL4	1628592016	2010-09-26 04:07:00
+discover	\N	\N	#rXV&v+K/H25$}q=v4MV2adU/6?+xnV)Te&3	1180389381	2010-09-27 09:41:09
+ack	\N	84.128.61.195/24	PPb"{f)F-m2V}~gz]6~	1910023433	2010-09-25 22:08:54
+discover	\N	\N	+(SHqd/R]aJhR]79\\Sn?ypQU4)`c&jDKtKT8"GS7U=g#g6!(zt	1943000535	2010-09-27 09:58:44
+offer	\N	\N	pG]kcG2}5X&Z+'(S?r"WEC'\\LyOUyqbSN~CMTLaZ+O)v9g(M_8GBLLvX/aFH\	SW=5KY	1999683428	2010-09-26 09:43:24
+request	168.70.239.52	\N	z|b9E3k=Knsgf\	hK`R~\\`4)\\KgXwOO#2L$NJ'pr?!g7`^_*HhUXSk^vP?Au-U6k@rVE7fgXX(u\\A_~TR@ggng#D	1361924289	2010-09-27 05:00:10
+request	153.160.101.254	\N	"Q}~VZ$(r'4Gs5&Mys\	vR@Mt?C"^*=FJu3Ap)fp~M(=ET{4{5@m	1073836720	2010-09-25 07:52:44
+discover	\N	\N	zZzZ-*JWN&]WDZ}uDE_vfvDzTe){q/4+-MPF=!6bTu]P_NfcN{"T|g?]8vs*QwrZh	1017619347	2010-09-27 05:55:54
+offer	\N	\N	C*&=M?c^P&t	1179834658	2010-09-26 02:49:47
+ack	\N	164.238.103.205/24	W\\&2t_7|c{_k#%?F4(WjSVwv)Gs6bkdVSE"YO'VEtTf	1571220860	2010-09-27 20:43:39
+request	231.52.124.191	\N	$~ey%}F\\6@efV4wqQV%Gn)4~cG}h72+r(Q\	pH~z97a\	Krmx|Fk$WYS9J5K+Kc229C~zzd*wA58CB'RSfe#@+_#=$c4-	1922205579	2010-09-26 04:06:52
+request	214.245.147.95	\N	{AXD3%N8na}O2x9@nMN^k'3H$Otu@R+\\Ody|^``VVJQhs@&ZK@h'PWv\\G#N77jpW=/pA\	/wgB2A"aw]v	1332640115	2010-09-26 10:12:48
+discover	\N	\N	3e6\	7TX+M|$d`D!FhXDb7Dy]2ZXpyctL!]\	BUp6q?knja	1097786699	2010-09-27 10:53:15
+request	206.176.125.72	\N	d_M?|FOq@M_%TPCj9brW]feBuO~7J)T{6M~86+4CusOn`x!4p=^|EXtjHUrXDmxca_2~K3}J@g	1046161554	2010-09-27 07:28:02
+offer	\N	\N	QB(Qz5G+	1168562581	2010-09-26 07:15:01
+request	210.182.253.14	\N	]7ZB)#]8	1121641719	2010-09-26 19:33:02
+discover	\N	\N	EQ\\TO-LW87/+U"GcK)wLm/	1018654302	2010-09-26 22:34:53
+request	\N	\N	y{JC#Rg?FO"+9ZktVV28SSNZ?T!t%d$\\m`nTPJJ')KAhq/q#%$HBxR8j{ay	1046271793	2010-09-27 20:58:15
+offer	\N	\N	NT(HOn{k5C#)%_bE)SB!JU(hM5	1018358881	2010-09-25 02:05:40
+ack	\N	170.126.243.45/24	^}zYz4"P?&AA4(6DwsRq=VhH}3%ruxfTau8/DseRaDmsA^p!BP	1557850354	2010-09-26 05:14:16
+offer	\N	\N	~Arf92*E^2yX~F|#}M!3@Qtq\	e9Dr\	R32`3PtQ	1989095107	2010-09-27 19:48:43
+ack	\N	224.138.142.68/24	s4\\y4($2q@h64EJEB6b7VThHEGBjx7"c%wcudWjt&eFd{"]~A66Q?JRJ@s}	1941593275	2010-09-25 03:10:00
+discover	\N	\N	Rq93U?|*rRrM^b!@Ts&$(=`_HZ8T-Rbr\	=w%f+ba@Nd}Hwu}nFN&/hR_BGBBaP	1050144358	2010-09-26 11:30:59
+ack	\N	253.27.194.249/24	k|yw(P-Ne&hxbmTS{)_r"54	1446882616	2010-09-26 21:09:52
+request	\N	\N	\\{~(/"$SDe2(-'tWN$+MPY_d53y'_\\?9ZgF]p"}`|e9uYdF"wN58\	L^EWF9BH}sP|db2VN)-gdZEz	1002117481	2010-09-25 02:35:02
+ack	\N	6.98.146.85/24	t8Gxm\\Z\	s3K'KW@rgwrp)FYvFTANpA\\&qd3#`5MWmS"pX\\^8+}{fFG{e*_=Z&}\\&@5\\9\\M2amTWK?X~)/`X5NtCM\\SuAzV)z*YLL	1674063999	2010-09-26 23:23:04
+offer	\N	\N	(gSXCHtA@eHG#fJek3Cp=88*@Lm#Dk#]8jV?*|2W(-="kB8aGypADk%mp@_ODV4f+"b9cXyD+27CdV$/\\^z8_27XCB7\	9Dwfv	1053429916	2010-09-25 09:27:23
+ack	\N	215.144.85.164/24	j(sYz&`sXt2y+ZxOE{e3KTPtB'OS$7\\`kfGA4j	1554780509	2010-09-25 08:26:47
+discover	\N	\N	Ot|)&c^BPpd(/+_\	N~*?HHe)YWKbSe2ny\\?zUjf!e)}B!vj+(cPu=7$S57uS~kxBHubF%b9^d&&8s6a@T|N%^	1201086463	2010-09-26 03:49:35
+offer	\N	\N	3jrT8${Y+}-zGS\\)'_~w)VS	1120602546	2010-09-26 07:20:08
+offer	\N	\N	bLneaB	1119131918	2010-09-25 23:29:26
+request	63.40.193.205	\N	q3OZkxOArrw'u/\	s99B$(D=QXsfC)N/n!b3=-ng+&C4(OQ((=XDn9976qJu2E8DX&CZv`DXC"#3Lz/'nbZ!	1235035620	2010-09-26 08:34:18
+request	9.126.126.90	\N	^N#ga258G35t$m)XN(]#6ZP)=5`?Hg	1833023485	2010-09-26 17:13:44
+offer	\N	\N	u@L4u|eCp|m?6+*(Uqm@XDxY@O#LfYY|wR!p4gNWGdKzSWvF4DYjU^4d-s-'a@(3~LY2#"'\	Md~h7Xj6~sN6J	1805042539	2010-09-25 12:03:50
+\.

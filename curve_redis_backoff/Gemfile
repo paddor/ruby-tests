@@ -1,0 +1,9 @@
+# needed when Mac is offline (until d0662b9 has been accepted and released)
+#gem 'celluloid-io', github: "paddor/celluloid-io"
+
+#gem 'celluloid-zmq', github: 'paddor/celluloid-zmq'
+gem 'celluloid-zmq-zap', github: 'Asmod4n/celluloid-zmq-zap'
+
+gem 'rbnacl-libsodium'
+gem 'redis'
+gem 'pry'

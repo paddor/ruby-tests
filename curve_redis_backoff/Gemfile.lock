@@ -1,0 +1,44 @@
+GIT
+  remote: git://github.com/Asmod4n/celluloid-zmq-zap.git
+  revision: 58069ab97ba8304a3bb5202ecf2383d28a82f3d1
+  specs:
+    celluloid-zmq-zap (0.0.1)
+      celluloid-zmq (>= 0.16)
+
+GEM
+  specs:
+    celluloid (0.16.0)
+      timers (~> 4.0.0)
+    celluloid-zmq (0.16.0)
+      celluloid (>= 0.15.0)
+      ffi
+      ffi-rzmq
+    coderay (1.1.0)
+    ffi (1.9.5)
+    ffi-rzmq (2.0.1)
+      ffi-rzmq-core (>= 1.0.1)
+    ffi-rzmq-core (1.0.3)
+      ffi (~> 1.9)
+    hitimes (1.2.2)
+    method_source (0.8.2)
+    pry (0.10.1)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    rbnacl (3.1.2)
+      ffi
+    rbnacl-libsodium (1.0.0)
+      rbnacl (~> 3.0, >= 3.0.1)
+    redis (3.1.0)
+    slop (3.6.0)
+    timers (4.0.1)
+      hitimes
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  celluloid-zmq-zap!
+  pry
+  rbnacl-libsodium
+  redis
